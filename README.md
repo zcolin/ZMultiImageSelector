@@ -8,7 +8,7 @@ Gradle
 app的build.gradle中添加
 ```
 dependencies {
-    compile 'com.github.zcolin:ZMultiImageSelector:1.0.5'
+    compile 'com.github.zcolin:ZMultiImageSelector:1.0.6'
 }
 ```
 工程的build.gradle中添加

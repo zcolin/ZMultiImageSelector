@@ -1,7 +1,8 @@
 # MultiImageSelectorLib
-##图片选择库.
+# [deprecated] 此库原作者已停止维护，所以转向知乎阵营了。https://github.com/zcolin/Matisse
+## 图片选择库.
 
-####基于 https://github.com/lovetuzitong/MultiImageSelector v1.2图片选择库，，将原作者的Picasso替换为Glide
+#### 基于 https://github.com/lovetuzitong/MultiImageSelector v1.2图片选择库，，将原作者的Picasso替换为Glide
 
 Gradle
 =
